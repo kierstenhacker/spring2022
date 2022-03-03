@@ -1,0 +1,49 @@
+.row {
+	display: flex;
+}
+
+.column {
+	flex: 25%;
+	padding: 5px;
+}
+
+.video1 {
+	float: left;
+	margin-right: 20px;
+	margin-left: 120px;
+}
+
+.main_portrait {
+  float: right;
+  margin: 30px 20px 15px 35px;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 75px;
+	color: #cc0099;
+}
+
+.subheading1 {
+	text-align: center;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 25px;
+	color: #333333;
+}
+
+.subheading {
+	font-family: 'Oswald', sans-serif;
+	font-size: 27px;
+	color: #4d94ff;
+}
+
+p, li {
+	font-size: 18px;
+	color: #333333 ;
+}
+
+.page {
+	background-color: #d9d9d9;
+}
+
