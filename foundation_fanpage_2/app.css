@@ -1,0 +1,60 @@
+.mainHeader {
+	background-color: #4d94ff;
+	text-align:  center;
+	color: #FFFF;
+}
+
+.sidebar {
+	background-color: #d9d9d9;
+	color: black;
+}
+
+.box1_header {
+	background-color: #4d94ff;
+	color: black;
+	text-align:  center;
+	font-family: 'Oswald', sans-serif;
+}
+.box2_header {
+	background-color: #4d94ff;
+	color: black;
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+}
+
+ .button1, .button2{
+	background-color: orange ;
+}
+
+.first_header {
+	color: #333333;
+	font-family: 'Oswald', sans-serif;
+}
+
+.main-section {
+	color: #333333;
+}
+
+.callout {
+	text-align:  center;
+	background-color: #d9d9d9;
+}
+
+.box1_content {
+	color: black;
+}
+
+.img1 {
+	text-align: center;
+}
+
+.box2_content {
+	color: black;
+}
+
+.img2 {
+	text-align:  center;
+}
+
+
+
