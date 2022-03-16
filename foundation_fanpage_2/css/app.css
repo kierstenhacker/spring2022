@@ -13,13 +13,12 @@
 	background-color: #4d94ff;
 	color: black;
 	text-align:  center;
-	font-family: 'Oswald', sans-serif;
 }
+
 .box2_header {
 	background-color: #4d94ff;
 	color: black;
 	text-align: center;
-	font-family: 'Oswald', sans-serif;
 }
 
  .button1, .button2{
@@ -28,11 +27,11 @@
 
 .first_header {
 	color: #333333;
-	font-family: 'Oswald', sans-serif;
 }
 
-.main-section {
+.media-object-section {
 	color: #333333;
+	font-size: 18px;
 }
 
 .callout {
@@ -56,5 +55,16 @@
 	text-align:  center;
 }
 
+.box3 {
+	text-align: center;
+}
 
+.box4 {
+	text-align: center;
+}
+
+.headerCallout {
+	background-color: #4d94ff ;
+	text-align: center;
+}
 
