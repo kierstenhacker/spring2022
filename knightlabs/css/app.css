@@ -1,0 +1,23 @@
+h1 {
+	text-align:  center;
+	font-family: 'Anton', sans-serif;
+	background-color: #b3b3ff;
+}
+
+h2 {
+	text-align:  center;
+	font-family: 'Anton', sans-serif;
+	background-color: #b3b3ff;
+}
+
+.body_copy {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 22px;
+	color: #333333;
+}
+
+.caption {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 17px;
+	color:  #333333;
+}
