@@ -1,0 +1,40 @@
+.mainHeadline {
+	background-color: #862d86;
+	color: white;
+}
+
+h1 {
+	font-family: 'Cinzel', serif;
+	font-size: 65px;
+	color: white;
+}
+
+h6 {
+	font-family: 'Spectral', serif;
+}
+
+.sidebar {
+	background-color: #862d86;
+}
+
+.firstInfo {
+	background-color: #862d86;
+}
+
+.secondInfo {
+	background-color: #862d86;
+}
+
+p {
+	font-family: 'Spectral', serif;
+	font-size: 22px;
+}
+
+.callout {
+	font-size: 26px;
+	background-color: #ff8533;
+}
+
+.mainBody {
+	font-family: 'Spectral', serif;
+}
