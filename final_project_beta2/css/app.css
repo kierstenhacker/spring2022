@@ -1,0 +1,40 @@
+.mainHeader {
+	margin: 0 0 25px 0;
+	font-family: 'Oswald', sans-serif;
+	background-color: #d9d9d9;
+	padding: 5px 15px 5px 10px;
+}
+
+.table {
+	margin: 20px 0 300px 0;
+}
+
+p {
+	font-family: 'Source Sans Pro', sans-serif;
+	line-height: 30px;
+	font-size: 18px;
+}
+
+.captions {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 14px;
+}
+
+ h1, h6 {
+ 	font-family: 'Oswald', sans-serif;
+ }
+
+h3 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 29px;
+	text-align: center;
+}
+
+
+.callout {
+	background-color: #d9d9d9;
+	width: 85%;
+    margin: auto;
+    width: 85%;
+    padding: 10px;
+}
